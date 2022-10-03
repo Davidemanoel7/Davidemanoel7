@@ -3,12 +3,6 @@
   <li> Estudante de Bacharelado em Sistemas de Informação (UFRN- CERES)
 </ul>
 
-<div align="center">
-  <a href="https://github.com/Davidemanoel7">
-  <img width= "48%" src="https://github-readme-stats.vercel.app/api?username=Davidemanoel7&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img width= "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidemanoel7&layout=compact&langs_count=7&theme=merko"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="DavidEm-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="DavidEm-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">

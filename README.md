@@ -15,17 +15,22 @@
   <img align="center" alt="A little logo of Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
   <img align="center" alt="A little logo of JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+  <img align="center" alt="A little logo of C plus plus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  
+  <img align="center" alt="A little logo of C plus plus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
  
  </div>
   
 ## Tools
   <div style="display: inline_block">
-      <img align="center" alt="A little logo of Figma tool" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">    
-      <img align="center" alt="A little logo of VsCode tool" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">    
-      <img align="center" alt="A little logo of Git tool" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">    
+    <img align="center" alt="A little logo of Figma tool" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">    
+    <img align="center" alt="A little logo of VsCode tool" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">    
+    <img align="center" alt="A little logo of Git tool" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">    
     <img align="center" alt="A little logo of ReactJs framework" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">    
     <img align="center" alt="A little logo of Node JS framework" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">    
-    <img align="center" alt="A little logo of NextJs framework" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">    
+    <img align="center" alt="A little logo of NextJs framework" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="A little logo of Flutter tool" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">    
   </div>
 
 </div>
